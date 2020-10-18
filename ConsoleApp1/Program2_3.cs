@@ -4,7 +4,7 @@ namespace ConsoleApp1
 {
     public class Program2_3
     {
-        /*static void Main(string[] args)
+        static void Main(string[] args)
         {
             int R = Convert.ToInt32(Console.ReadLine());
             int x = Convert.ToInt32(Console.ReadLine());
@@ -21,6 +21,6 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Точка вне круга");
             }
-        }*/
+        }
     }
 }

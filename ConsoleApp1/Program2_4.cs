@@ -4,7 +4,7 @@ namespace ConsoleApp1
 {
     public class Program2_4
     {
-        /*static void Main(string[] args)
+        static void Main(string[] args)
         {
             Random random = new Random();
             int randomNumber = random.Next(30);
@@ -47,6 +47,6 @@ namespace ConsoleApp1
                     Console.WriteLine($"Число {randomNumber} попало в третий диапазон");
                     break;
             }
-        }*/
+        }
     }
 }

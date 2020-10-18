@@ -4,7 +4,7 @@ namespace ConsoleApp1
 {
     public class Program2_5
     {
-        /*static void Main(string[] args)
+        static void Main(string[] args)
         {
             int year = Convert.ToInt32(Console.ReadLine());
             if (year % 4 == 0 && (year % 100 != 0 || year % 400 == 0))
@@ -15,6 +15,6 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Год невисокосный");
             }
-        }*/
+        }
     }
 }

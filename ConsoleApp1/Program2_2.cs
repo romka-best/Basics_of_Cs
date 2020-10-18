@@ -4,7 +4,7 @@ namespace ConsoleApp1
 {
     public class Program2_2
     {
-        /*static void Main(string[] args)
+        static void Main(string[] args)
         {
             int number1 = Convert.ToInt32(Console.ReadLine());
             int number2 = Convert.ToInt32(Console.ReadLine());
@@ -21,6 +21,6 @@ namespace ConsoleApp1
             {
                 Console.WriteLine($"Число {number3} самое большое");
             }
-        }*/
+        }
     }
 }

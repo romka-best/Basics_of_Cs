@@ -4,7 +4,7 @@ namespace ConsoleApp1
 {
     public class Program1_1
     {
-        /*static void Main(string[] args)
+        static void Main(string[] args)
         {
             int value1 = 3;
             int value2 = 4;
@@ -13,6 +13,6 @@ namespace ConsoleApp1
             value2 = value1;
             value1 = value3;
             Console.WriteLine($"value1 = {value1}, value2 = {value2}");
-        }*/
+        }
     }
 }
